@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    color:gray;
+}
+
+#tropical{
+    background: -webkit-linear-gradient(#41ff1b, #f83535);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+
+#fresh{
+    background: -webkit-linear-gradient(#41ff1b, #4efacf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+
+#classic{
+    background: -webkit-linear-gradient(#fc7e2b, #ffd828);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+
+.container ul{
+    list-style-position:inside;
+    margin:0px;
+    padding:5px;
+    
+}
+
+.container ol{
+    list-style-position:inside;
+    margin:0px;
+    padding:5px;
+}
+
+img{
+    width: auto;
+    height:300px;
+    border-radius:150px;
+}
